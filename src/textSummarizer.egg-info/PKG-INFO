@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package
+Home-page: https://github.com/anand170107032/Text-Summarization
+Author: anand170107032
+Author-email: anandmanish2000@gmail.com
+Project-URL: Bug Tracker, https://github.com/anand170107032/Text-Summarization/issues
+
+# Text-Summarization
+Automates summarization of large text volumes using powerful NLP algorithms and pre-trained models. 
